@@ -1,0 +1,82 @@
+@font-face{
+    font-family: mogra;
+    src: url(Mogra-Regular.ttf);
+}
+
+.main{
+    margin: auto;
+
+    width: 720px;
+    background-color: #83b0e4;
+    
+
+}
+
+.estrela{
+    color:rgb(24, 24, 49) ;
+}
+
+
+#name{
+    font-family: mogra;
+    font-size: 50px;
+    color: rgb(24, 24, 49);
+    position: relative;
+    top: 20px;
+    
+    
+}
+
+.nomeFoto{
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+
+.nomeFoto img{
+    border: thick double #ffffff;
+}
+
+#sobe{
+
+}
+
+.gatinho{
+    position: relative;
+    left: 450px;
+    float:left;
+}
+
+#bio{
+    background-color: aliceblue;
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
+
+#hobie{
+    background-color: aliceblue;
+    padding: 10px;
+    color: rgb(30, 30, 68);
+}
+
+.gatinhe{
+    position: relative;
+    top: 50%;
+    margin-top: -50px;
+}
+
+#informacoes{
+    background-color: aliceblue;
+    height:200px;
+    padding-top: 10px;
+    text-align: center;
+    font-family: mogra
+}
+
+
+ul{
+    list-style: none;
+}
